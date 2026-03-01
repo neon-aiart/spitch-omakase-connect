@@ -1,4 +1,4 @@
-## 🍣 Spitch Omakase Connect v1.2  
+## 🍣 Spitch Omakase Connect v1.3  
 
 GoogleColabでVOICEVOXとRVCの環境構築  
 
@@ -16,14 +16,14 @@ RVCはcolabに課金していないと強制切断されます
 
 * **Free Tier Users:** If you do not have a paid Colab subscription, it is strongly recommended to run RVC locally instead.
 
-⭐ [スター](https://github.com/neon-aiart/spitch-omakase-connect/tree/main)をポチッとお願いします✨ (Please hit the [Star] button!)  
+⭐ [スター](https://github.com/neon-aiart/spitch-omakase-connect/)をポチッとお願いします✨ (Please hit the [Star] button!)  
 
 <br clear="right">  
 
 下のボタンを押してGoogle Colabで実行してください  
 Click the button below to open the script in Google Colab and start transcribing!  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neon-aiart/spitch-omakase-connect/blob/main/spitch-omakase-connect%20v1.2.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neon-aiart/spitch-omakase-connect/blob/main/spitch-omakase-connect%20v1.3.ipynb)  
 
 <details>
 <summary><b>[JP]</b></summary>
