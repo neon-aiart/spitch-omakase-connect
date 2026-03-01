@@ -25,6 +25,9 @@ Click the button below to open the script in Google Colab and start transcribing
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neon-aiart/spitch-omakase-connect/blob/main/spitch-omakase-connect%20v1.3.ipynb)  
 
+model は Google Drive の RVC/weights/  
+index は Google Drive の RVC/logs/  
+
 <details>
 <summary><b>[JP]</b></summary>
 
