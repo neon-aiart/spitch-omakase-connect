@@ -25,14 +25,12 @@ Click the button below to open the script in Google Colab and start transcribing
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neon-aiart/spitch-omakase-connect/blob/main/spitch-omakase-connect%20v1.3.ipynb)  
 
-model は Google Drive の RVC/weights/  
-index は Google Drive の RVC/logs/  
-
 <details>
 <summary><b>[JP]</b></summary>
 
 * **長時間の接続しっぱなしは危険**  
 * **RVCはcolabに課金が必要**  
+* ⚠️ **RVC環境構築の動作確認は行っていません**  
 * **マジックリンクは`neon-spitch-link v8.4` 以降で利用可能**  
 
 #### 目安時間 (VOICEVOXのみ)  
@@ -48,6 +46,7 @@ index は Google Drive の RVC/logs/
 
 * **Continuous connection for long periods is risky.**  
 * **A paid Colab plan is required to use RVC.**  
+* ⚠️ **RVC environment setup and operation have not been verified.**  
 * **Magic links are supported in neon-spitch-link v8.4 and later.**  
 
 #### Estimated Time (VOICEVOX only)
@@ -81,6 +80,20 @@ Gemini will open and automatically sync the configuration.
 > (Available on `neon-spitch-link` v8.4 or later)  
 
 </details>
+
+---
+
+⚠️ RVC動作に関する注意:  
+本スクリプトにおけるRVC環境の構築および動作については、Colabの規約制限により検証が行えていません。  
+設定自体は可能ですが、正常な動作を保証するものではないことをご了承ください。  
+
+⚠️ Note on RVC Operation:  
+Due to Colab's policy restrictions, the RVC environment setup and its actual operation have not been verified.  
+While the configuration is provided, please note that successful operation is not guaranteed.  
+
+* **Model path:** Google Drive `RVC/weights/`  
+* **Index path:** Google Drive `RVC/logs/`  
+
 
 ---
 
