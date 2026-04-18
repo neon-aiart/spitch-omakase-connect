@@ -60,27 +60,27 @@ Click the button below to open the script in Google Colab and start transcribing
 </details>
 
 <details>
-<summary><b>🪄 クイック設定同期 / Quick Configuration Sync</b></summary>
+<summary><b>🪄 API URL設定をクイック初期化 / Quick Configuration Sync</b></summary>
 
 ローカル環境（localhost）を使用する場合や、設定を初期値に戻したい時は、以下のリンクをクリックしてください  
-Geminiが開き、自動的に設定が同期されます  
+Geminiが開き、自動的に設定が同期されます（マジックリンク）  
 If you are using a local environment (localhost) or want to reset the settings to default, click the links below.  
 Gemini will open and automatically sync the configuration.  
 
-* ✨ **[VOICEVOXを同期 (Sync VOICEVOX)](https://gemini.google.com/#sync_v_eyJ2diI6ICJodHRwOi8vbG9jYWxob3N0OjUwMDIxIiwgInJ2YyI6ICIiLCAidHMiOiAxNzQwOTM5NjAwfQ==)**  
+* ✨ **[VOICEVOXのAPI URL設定を初期化 (Sync VOICEVOX)](https://gemini.google.com/#sync_v_eyJ2diI6ICJodHRwOi8vbG9jYWxob3N0OjUwMDIxIiwgInJ2YyI6ICIiLCAidHMiOiAxNzQwOTM5NjAwfQ==)**  
   `vv: http://localhost:50021`  
 
-* ✨ **[RVCを同期 (Sync RVC)](https://gemini.google.com/#sync_v_eyJ2diI6ICIiLCAicnZjIjogImh0dHA6Ly9sb2NhbGhvc3Q6Nzg5NyIsICJ0cyI6IDE3NDA5Mzk2MDB9)**  
+* ✨ **[RVCをのAPI URL設定を初期化 (Sync RVC)](https://gemini.google.com/#sync_v_eyJ2diI6ICIiLCAicnZjIjogImh0dHA6Ly9sb2NhbGhvc3Q6Nzg5NyIsICJ0cyI6IDE3NDA5Mzk2MDB9)**  
   `rvc: http://localhost:7897`  
 
-* ✨ **[両方を一括同期 (Sync Both)](https://gemini.google.com/#sync_v_eyJ2diI6ICJodHRwOi8vbG9jYWxob3N0OjUwMDIxIiwgInJ2YyI6ICJodHRwOi8vbG9jYWxob3N0Ojc4OTciLCAidHMiOiAxNzQwOTM5NjAwfQ==)**  
+* ✨ **[両方のAPI URL設定を一括で初期化 (Sync Both)](https://gemini.google.com/#sync_v_eyJ2diI6ICJodHRwOi8vbG9jYWxob3N0OjUwMDIxIiwgInJ2YyI6ICJodHRwOi8vbG9jYWxob3N0Ojc4OTciLCAidHMiOiAxNzQwOTM5NjAwfQ==)**  
   `Both Localhost URLs`  
 
-> [!Note]  
-> **UserScript:** `neon-spitch-link` v8.4以降で利用できます  
-> (Available on `neon-spitch-link` v8.4 or later)  
-
 </details>
+
+> [!Tip]  
+> **マジックリンク**は `neon-spitch-link` v8.4以降で利用できます  
+> (Available on `neon-spitch-link` v8.4 or later)  
 
 ---
 
