@@ -73,7 +73,7 @@ Gemini will open and automatically sync the configuration.
 * ✨ **[AivisSpeechのAPI URL設定を初期化 (Sync AivisSpeech)](https://gemini.google.com/#sync_v_eyJhcGlVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDoxMDEwMSJ9)**  
   `as: http://localhost:10101`  
 
-* ✨ **[RVCをのAPI URL設定を初期化 (Sync RVC)](https://gemini.google.com/#sync_v_eyJydmNBcGlVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDo3ODk3In0=)**  
+* ✨ **[RVCのAPI URL設定を初期化 (Sync RVC)](https://gemini.google.com/#sync_v_eyJydmNBcGlVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDo3ODk3In0=)**  
   `rvc: http://localhost:7897`  
 
 * ✨ **[両方のAPI URL設定を一括で初期化 (Sync Both)](https://gemini.google.com/#sync_v_eyJhcGlVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDo1MDAyMSIsICJydmNBcGlVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDo3ODk3In0=)**  
