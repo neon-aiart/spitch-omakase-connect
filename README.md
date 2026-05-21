@@ -1,4 +1,4 @@
-## 🍣 Spitch Omakase Connect v1.3  
+## 🍣 Spitch Omakase Connect v1.4  
 
 GoogleColabでVOICEVOXとRVCの環境構築  
 
@@ -23,7 +23,7 @@ RVCはcolabに課金していないと強制切断されます
 下のボタンを押してGoogle Colabで実行してください  
 Click the button below to open the script in Google Colab and start transcribing!  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neon-aiart/spitch-omakase-connect/blob/main/spitch-omakase-connect%20v1.3.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neon-aiart/spitch-omakase-connect/blob/main/spitch-omakase-connect%20v1.4.ipynb)  
 
 <details>
 <summary><b>[JP]</b></summary>
@@ -67,13 +67,13 @@ Geminiが開き、自動的に設定が同期されます（マジックリン�
 If you are using a local environment (localhost) or want to reset the settings to default, click the links below.  
 Gemini will open and automatically sync the configuration.  
 
-* ✨ **[VOICEVOXのAPI URL設定を初期化 (Sync VOICEVOX)](https://gemini.google.com/#sync_v_eyJ2diI6ICJodHRwOi8vbG9jYWxob3N0OjUwMDIxIiwgInJ2YyI6ICIiLCAidHMiOiAxNzQwOTM5NjAwfQ==)**  
+* ✨ **[VOICEVOXのAPI URL設定を初期化 (Sync VOICEVOX)](https://gemini.google.com/#sync_v_eyJhcGlVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDo1MDAyMSJ9)**  
   `vv: http://localhost:50021`  
 
-* ✨ **[RVCをのAPI URL設定を初期化 (Sync RVC)](https://gemini.google.com/#sync_v_eyJ2diI6ICIiLCAicnZjIjogImh0dHA6Ly9sb2NhbGhvc3Q6Nzg5NyIsICJ0cyI6IDE3NDA5Mzk2MDB9)**  
+* ✨ **[RVCをのAPI URL設定を初期化 (Sync RVC)](https://gemini.google.com/#sync_v_eyJydmNBcGlVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDo3ODk3In0=)**  
   `rvc: http://localhost:7897`  
 
-* ✨ **[両方のAPI URL設定を一括で初期化 (Sync Both)](https://gemini.google.com/#sync_v_eyJ2diI6ICJodHRwOi8vbG9jYWxob3N0OjUwMDIxIiwgInJ2YyI6ICJodHRwOi8vbG9jYWxob3N0Ojc4OTciLCAidHMiOiAxNzQwOTM5NjAwfQ==)**  
+* ✨ **[両方のAPI URL設定を一括で初期化 (Sync Both)](https://gemini.google.com/#sync_v_eyJhcGlVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDo1MDAyMSIsICJydmNBcGlVcmwiOiAiaHR0cDovL2xvY2FsaG9zdDo3ODk3In0=)**  
   `Both Localhost URLs`  
 
 </details>
